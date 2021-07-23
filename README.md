@@ -3,3 +3,5 @@
 <h2>Hey there, I'm Hans!</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+I'm a fullstack developer in need of some cold-brew! 😅
